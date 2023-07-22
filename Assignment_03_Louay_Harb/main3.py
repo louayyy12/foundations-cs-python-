@@ -69,3 +69,17 @@ while True:
         import_json_menu()
     elif choice == 4:
         break 
+
+##########################################
+
+#Exercise  
+#a. O(N^3)
+#b. O(N^3)
+#c. O(N^4)
+#d. O(N log N)
+#e. O(N)
+#f. O(N^2)
+#g. O(N^2)
+#h. O(N!)
+
+
